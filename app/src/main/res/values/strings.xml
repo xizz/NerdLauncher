@@ -2,5 +2,6 @@
 	<string name="app_name">Nerd Launcher</string>
 
 	<string name="hello_world">Hello world!</string>
+	<string name="hello">Hello World, NerdLauncherActivity!</string>
 	<string name="action_settings">Settings</string>
 </resources>
